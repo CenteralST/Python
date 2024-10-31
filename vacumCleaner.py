@@ -1,3 +1,4 @@
+#Auther Seyed Amir Hossein Sadat Hosseini
 import numpy as np
 import random as rn
 import math as mth
